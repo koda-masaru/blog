@@ -45,7 +45,7 @@ yarn dev
 
 - ブラウザで、 `http://localhost:4321/` にアクセスするとBlogの雛形が動いている
 
-<img src="/public/assets/astro-getting-started/blog-template.png" alt="Blogの雛形" width="50%" height="auto">
+![Blogの雛形](/assets/astro-getting-started/blog-template.png)
 
 ## ブログの記事の編集を確認
 
