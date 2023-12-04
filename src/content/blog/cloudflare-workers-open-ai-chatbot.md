@@ -10,6 +10,7 @@ tags:
   - Cloudflare Workers
   - Hono
   - OpenAI
+  - CharGPT
   - LINE
   - Chatbot
 description:
