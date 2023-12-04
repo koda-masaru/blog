@@ -7,7 +7,8 @@ draft: false
 tags:
   - docs
   - LLM
-  - AWS Lambda@Edge
+  - AWS
+  - Lambda@Edge
   - Node.js
   - Hono
   - OpenAI
